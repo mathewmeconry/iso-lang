@@ -1,0 +1,14 @@
+{
+  "name": "iso-lang",
+  "version": "1.0.0",
+  "description": "Translations for language names",
+  "main": ".build/index.js",
+  "repository": "https://github.com/mathewmeconry/iso-lang",
+  "author": "Mathias Scherer",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "build": "tsc -p tsconfig.json",
+    "prepare": "tsc -p tsconfig.json"
+  }
+}
